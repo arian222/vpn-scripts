@@ -1,0 +1,12 @@
+# Excludem arhive mari și fișiere temporare
+v2ray.zip
+*.log
+*.tmp
+*.swp
+*.bak
+.env
+
+# Excludem directoare specifice
+node_modules/
+__pycache__/
+.vscode/ 
