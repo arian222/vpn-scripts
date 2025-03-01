@@ -20,7 +20,7 @@ Acest repository conține o colecție de scripturi pentru configurarea, gestiona
 
 1. Clonează repository-ul:
    ```bash
-   git clone https://github.com/username/vps-v2ray-scripts.git
+   git clone https://github.com/arian222/vps-v2ray-scripts.git
    cd vps-v2ray-scripts
    ```
 
